@@ -3,3 +3,4 @@ Let's spruce up some YouTube features by enhancing on what we already have.
 1. A pop-up of upcoming videos should be displayed in the bottom of the screen when users select the "watch later" option.
 2. Users should then be able to drag videos into the desired order.
 3. A play button should be included on the bottom of the screen so that users can immediately start their "watch later" sequence.  
+4. Also, users should see their favorite videos and connect that with specific channels that they've subscribed to.  
