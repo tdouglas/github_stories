@@ -1,0 +1,3 @@
+YouTube
+Let's address errors within our YouTube application. 
+1. When users click subscribe, they receive an immediate notification of new videos.  Notifications should be suspended for 24 hours upon subscribing to the channel.

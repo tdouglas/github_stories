@@ -1,0 +1,5 @@
+YouTube 
+It's time to spruce up the YouTube interface a bit.  Users need additional options when browsing videos.  
+1. Users should be able to upload a video as a link from another site (i.e. Vimeo).
+2. Users should be able to embed a quiz within their videos.
+3. Finally, they should be able to see the data from those quizzes to determine users familiarity and understanding of the concepts they shared.
